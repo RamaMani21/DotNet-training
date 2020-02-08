@@ -1,0 +1,18 @@
+<!doctype html>
+<head>
+<html>
+<script>
+<body>
+var a = hi;
+document.writeln(a);
+
+if(isNaN(a))
+{
+document.writeln('not a number');
+else
+document.writeln('a number');
+}
+</script>
+</body>
+</html>
+
